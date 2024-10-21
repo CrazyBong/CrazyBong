@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubhranshu Das</h1>
 <h3 align="center">I am a curious student and Front-End Developer from Madhya Pradesh , India. Interested in Software Development, Data Science, Artificial intelligence, and a whole lot more. I love to direct my energy towards projects that have a positive impact on the community and pique my curiosity. Open to discuss about anything!</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazybong&label=Profile%20views&color=0e75b6&style=flat" alt="crazybong" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crazybong" alt="crazybong" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Nexis](https://github.com/CrazyBong/Nexis)
 
